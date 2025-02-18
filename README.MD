@@ -21,7 +21,7 @@ Site vitrine responsive et accessible pour WorkFlow, une agence web fictive, dé
 <details>
 <summary>Lighthouse Score</summary>
 
-![Lighthouse Score](https://media.discordapp.net/attachments/1229498756265807953/1341334038211854387/image.png?ex=67b59e2b&is=67b44cab&hm=6f159fedd36ace06049a9b58e2208c51e154b4b50bc157b4b51ae5623e0d902b&=&format=webp&quality=lossless&width=395&height=325)
+![Lighthouse Score](https://media.discordapp.net/attachments/1201514398183870474/1341358322280042566/image.png?ex=67b5b4c9&is=67b46349&hm=218b707fb6a389d3f91d7ef7c30e64b9ff20ea364e04800475dc904051c6bb98&=&format=webp&quality=lossless&width=1088&height=515)
 *Score Lighthouse*
 
 </details>
