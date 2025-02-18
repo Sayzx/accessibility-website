@@ -19,21 +19,6 @@ Site vitrine responsive et accessible pour WorkFlow, une agence web fictive, dé
 
 ### Accessibilité
 <details>
-<summary>Tests NVDA</summary>
-
-![Test NVDA](screenshots/nvda_test.png)
-*Navigation à l'aide du lecteur d'écran NVDA*
-</details>
-
-<details>
-<summary>Validation WAVE</summary>
-
-![Test WAVE](screenshots/wave_test.png)
-*Résultats de l'analyse WAVE pour l'accessibilité*
-</details>
-
-### Performance
-<details>
 <summary>Lighthouse Score</summary>
 
 ![Lighthouse Score](https://media.discordapp.net/attachments/1229498756265807953/1341334038211854387/image.png?ex=67b59e2b&is=67b44cab&hm=6f159fedd36ace06049a9b58e2208c51e154b4b50bc157b4b51ae5623e0d902b&=&format=webp&quality=lossless&width=395&height=325)
